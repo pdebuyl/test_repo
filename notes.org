@@ -7,3 +7,6 @@
 ** TODO heading with todo list
 - [ ] todo item 1
 - [ ] todo item 2
+
+** TODO this is a regular todo item with its own heading
+
